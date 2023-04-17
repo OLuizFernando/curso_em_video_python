@@ -1,0 +1,8 @@
+frase0 = str(input('Digite uma frase: ')).strip().replace(' ', '')
+frase = frase0.lower()
+count_a = frase.count('a')
+find_a = frase.find('a')
+rfind_a = frase.rfind('a')
+print('Quantas vezes aparecem a letra "a":', count_a)
+print('O primeiro "a" aparece na posição:', find_a + 1)
+print('O último "a" aparece na posição:', rfind_a + 1)
