@@ -18,8 +18,7 @@ while True:
             nomemaisbarato = nome
             precomaisbarato = preco
     print()
-    while resp != 's' and resp != 'n':
-        resp = str(input('Deseja coninuar? [S/N] ')).strip().lower()
+    resp = str(input('Deseja coninuar? [S/N] ')).strip().lower()
     print()
     print('-' * 22)
     if resp[0] == 'n':
