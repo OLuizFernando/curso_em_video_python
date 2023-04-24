@@ -1,4 +1,4 @@
-# Exercícios em Python, do Curso em Vídeo
+# Exercícios em Python do Curso em Vídeo
 Todos os 115 exercícios do curso de Python do professor Gustavo Guanabara, dono da plataforma Curso em Vídeo.
 
 O curso é dividido em 3 módulos: Mundo 1, Mundo 2 e Mundo 3.
