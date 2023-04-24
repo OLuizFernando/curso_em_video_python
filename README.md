@@ -4,6 +4,7 @@ Todos os 115 exercícios do curso de Python do professor Gustavo Guanabara, dono
 O curso é dividido em 3 módulos: Mundo 1, Mundo 2 e Mundo 3.
 ***
 # Lista de Temas de Cada Módulo
+Exercícios mais interessantes estão marcados com :star:.
 ## Mundo 1
 ### Conhecendo a Linguagem
 * [ex001](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex001.py) - Deixando tudo pronto
@@ -49,8 +50,8 @@ O curso é dividido em 3 módulos: Mundo 1, Mundo 2 e Mundo 3.
 ---
 ## Mundo 2
 ### Condições em Python
-* [ex036](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex036.py) - Aprovando empréstimo
-* [ex037](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex037.py) - Conversor de bases numéricas
+* [ex036](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex036.py) - Aprovando empréstimo :star:
+* [ex037](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex037.py) - Conversor de bases numéricas :star:
 * [ex038](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex038.py) - Comparando números
 * [ex039](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex039.py) - Alistamento militar
 * [ex040](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex040.py) - Aquele clássico da média
@@ -58,7 +59,7 @@ O curso é dividido em 3 módulos: Mundo 1, Mundo 2 e Mundo 3.
 * [ex042](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex042.py) - Analisando triângulos v2.0
 * [ex043](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex043.py) - Índice de Massa Corporal
 * [ex044](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex044.py) - Gerenciador de pagamentos
-* [ex045](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex045.py) - GAME: Pedra, Papel e Tesoura
+* [ex045](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex045.py) - GAME: Pedra, Papel e Tesoura :star:
 ### Repetições em Python (for)
 * [ex046](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex046.py) - Contagem regressiva
 * [ex047](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex047.py) - Contagem de pares
@@ -70,11 +71,11 @@ O curso é dividido em 3 módulos: Mundo 1, Mundo 2 e Mundo 3.
 * [ex053](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex053.py) - Detector de palíndromo
 * [ex054](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex054.py) - Grupo da maioridade
 * [ex055](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex055.py) - Maior e menor da sequência
-* [ex056](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex056.py) - Analisador completo
+* [ex056](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex056.py) - Analisador completo :star:
 ### Repetições em Python (while)
 * [ex057](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex057.py) - Validação de dados
-* [ex058](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex058.py) - Jogo da adivinhação v2.0
-* [ex059](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex059.py) - Criando um menu de opções
+* [ex058](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex058.py) - Jogo da adivinhação v2.0 :star:
+* [ex059](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex059.py) - Criando um menu de opções :star:
 * [ex060](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex060.py) - Cálculo do fatorial
 * [ex061](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex061.py) - Progressão aritmética v2.0
 * [ex062](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex062.py) - Super Progressão Aritmética v3.0
@@ -83,10 +84,10 @@ O curso é dividido em 3 módulos: Mundo 1, Mundo 2 e Mundo 3.
 * [ex065](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex065.py) - Maior e menor valores
 * [ex066](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex066.py) - Vários números com flag
 * [ex067](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex067.py) - Tabuada v3.0
-* [ex068](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex068.py) - Jogo do par ou ímpar
-* [ex069](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex069.py) - Análise de dados do grupo
-* [ex070](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex070.py) - Estatística de produtos
-* [ex071](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex071.py) - Simulador de caixa eletrônico
+* [ex068](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex068.py) - Jogo do par ou ímpar :star:
+* [ex069](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex069.py) - Análise de dados do grupo :star:
+* [ex070](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex070.py) - Estatística de produtos :star:
+* [ex071](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex071.py) - Simulador de caixa eletrônico :star:
 ---
 ## Mundo 3
 ### Tuplas
@@ -104,19 +105,19 @@ O curso é dividido em 3 módulos: Mundo 1, Mundo 2 e Mundo 3.
 * [ex082](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex082.py) - Dividindo valores em várias listas
 * [ex083](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex083.py) - Validando expressões matemáticas
 ### Listas (Parte 2)
-* [ex084](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex084.py) - Lista composta e análise de dados
+* [ex084](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex084.py) - Lista composta e análise de dados :star:
 * [ex085](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex085.py) - Listas com pares e ímpares
 * [ex086](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex086.py) - Matrix em Python
-* [ex087](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex087.py) - Mais sobre matriz em Python
+* [ex087](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex087.py) - Mais sobre matriz em Python :star:
 * [ex088](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex088.py) - Palpites para a Mega-Sena
-* [ex089](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex089.py) - Boletim com listas compostas
+* [ex089](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex089.py) - Boletim com listas compostas :star:
 ### Dicionários
 * [ex090](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex090.py) - Dicionário em Python
 * [ex091](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex091.py) - Jogo de dados em Python
 * [ex092](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex092.py) - Cadastro de trabalhador em Python
 * [ex093](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex093.py) - Cadastro de jogador de futebol
-* [ex094](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex094.py) - Unindo dicionários e listas
-* [ex095](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex095.py) - Aprimorando dicionários
+* [ex094](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex094.py) - Unindo dicionários e listas :star:
+* [ex095](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex095.py) - Aprimorando dicionários :star:
 ### Funções
 * [ex096](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex096.py) - Função que calcula área
 * [ex097](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex097.py) - Um print especial
@@ -139,4 +140,4 @@ O curso é dividido em 3 módulos: Mundo 1, Mundo 2 e Mundo 3.
 ### Tratamento de erros em Python
 * [ex113](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex113.py) - Funções aprofundadas em Python
 * [ex114](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex114.py) - Site está acessível?
-* [ex115](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex115.py) - Criando um menu em Python
+* [ex115](https://github.com/OLuizFernando/ExerciciosCursoEmVideoPython/blob/main/exercicios/ex115.py) - Criando um menu em Python :star:
